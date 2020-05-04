@@ -25,3 +25,6 @@ In the exploration, I have a few findings.
 For the presentation, I focus on the relationship between price and other numeric metrics, like number of reviews and minimum nights. I started by introducing the distribution of price, then plot the scatterplot.
 
 Afterwards, I introduce key categorical variables like room type and neighbourhood group by plotting boxplots between them and prices. In light of longtitude and latitude info we have, I plot a map with price distribution.
+
+## Licenses
+These project does not require any licenses. 
